@@ -1,0 +1,14 @@
+   # Node modules
+   /node_modules
+
+   # Compiled JavaScript files
+   /dist
+
+   # IDE/Editor specific files
+   .vscode
+   .idea
+
+   # Other build files
+   /build
+node_modules
+.849C9593-D756-4E56-8D6E-42412F2A707B
